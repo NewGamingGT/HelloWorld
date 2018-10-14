@@ -7038,25 +7038,28 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Leoyu\\.nuget\\packages\\": {},
+    "C:\\Users\\qingsong\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\": {},
     "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Leoyu\\Desktop\\HelloWorld\\HelloWorld\\HelloWorld.UWP\\HelloWorld.UWP.csproj",
+      "projectUniqueName": "C:\\Users\\qingsong\\Documents\\GitHub\\HelloWorld\\HelloWorld\\HelloWorld.UWP\\HelloWorld.UWP.csproj",
       "projectName": "HelloWorld.UWP",
-      "projectPath": "C:\\Users\\Leoyu\\Desktop\\HelloWorld\\HelloWorld\\HelloWorld.UWP\\HelloWorld.UWP.csproj",
-      "packagesPath": "C:\\Users\\Leoyu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Leoyu\\Desktop\\HelloWorld\\HelloWorld\\HelloWorld.UWP\\obj\\",
+      "projectPath": "C:\\Users\\qingsong\\Documents\\GitHub\\HelloWorld\\HelloWorld\\HelloWorld.UWP\\HelloWorld.UWP.csproj",
+      "packagesPath": "C:\\Users\\qingsong\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\qingsong\\Documents\\GitHub\\HelloWorld\\HelloWorld\\HelloWorld.UWP\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
         "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\Leoyu\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\qingsong\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.Fallback.config"
       ],
       "originalTargetFrameworks": [
         "uap10.0.16299"
@@ -7068,8 +7071,8 @@
       "frameworks": {
         "uap10.0.16299": {
           "projectReferences": {
-            "C:\\Users\\Leoyu\\Desktop\\HelloWorld\\HelloWorld\\HelloWorld\\HelloWorld.csproj": {
-              "projectPath": "C:\\Users\\Leoyu\\Desktop\\HelloWorld\\HelloWorld\\HelloWorld\\HelloWorld.csproj"
+            "C:\\Users\\qingsong\\Documents\\GitHub\\HelloWorld\\HelloWorld\\HelloWorld\\HelloWorld.csproj": {
+              "projectPath": "C:\\Users\\qingsong\\Documents\\GitHub\\HelloWorld\\HelloWorld\\HelloWorld\\HelloWorld.csproj"
             }
           }
         }

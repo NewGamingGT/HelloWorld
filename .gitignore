@@ -259,3 +259,18 @@ paket-files/
 # Python Tools for Visual Studio (PTVS)
 __pycache__/
 *.pyc
+HelloWorld/HelloWorld/obj/Debug/netstandard2.0/HelloWorld.csproj.FileListAbsolute.txt
+*.cache
+*.pdb
+*.cache
+*.pdb
+HelloWorld/HelloWorld/bin/Debug/netstandard2.0/HelloWorld.pdb
+HelloWorld/HelloWorld/bin/Debug/netstandard2.0/HelloWorld.dll
+HelloWorld/HelloWorld/bin/Debug/netstandard2.0/HelloWorld.deps.json
+HelloWorld/HelloWorld.UWP/obj/x86/Debug/XamlSaveStateFile.xml
+HelloWorld/HelloWorld.UWP/obj/x86/Debug/resources.resfiles.intermediate
+HelloWorld/HelloWorld.UWP/obj/x86/Debug/resources.resfiles
+HelloWorld/HelloWorld.UWP/obj/x86/Debug/ResourceHandlingTask.state
+HelloWorld/HelloWorld.UWP/obj/x86/Debug/ProjectArchitectures.txt
+HelloWorld/HelloWorld.UWP/obj/x86/Debug/priconfig.xml.intermediate
+HelloWorld/HelloWorld.UWP/obj/x86/Debug/priconfig.xml
