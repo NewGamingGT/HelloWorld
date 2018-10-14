@@ -1,0 +1,17 @@
+C:\Users\Leoyu\Desktop\HelloWorld\HelloWorld\HelloWorld\bin\Debug\netstandard2.0\HelloWorld.deps.json
+C:\Users\Leoyu\Desktop\HelloWorld\HelloWorld\HelloWorld\bin\Debug\netstandard2.0\HelloWorld.dll
+C:\Users\Leoyu\Desktop\HelloWorld\HelloWorld\HelloWorld\bin\Debug\netstandard2.0\HelloWorld.pdb
+C:\Users\Leoyu\Desktop\HelloWorld\HelloWorld\HelloWorld\obj\Debug\netstandard2.0\HelloWorld.csprojAssemblyReference.cache
+C:\Users\Leoyu\Desktop\HelloWorld\HelloWorld\HelloWorld\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Leoyu\Desktop\HelloWorld\HelloWorld\HelloWorld\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+C:\Users\Leoyu\Desktop\HelloWorld\HelloWorld\HelloWorld\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
+C:\Users\Leoyu\Desktop\HelloWorld\HelloWorld\HelloWorld\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
+C:\Users\Leoyu\Desktop\HelloWorld\HelloWorld\HelloWorld\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\Leoyu\Desktop\HelloWorld\HelloWorld\HelloWorld\obj\Debug\netstandard2.0\Views\MyCalculator.xaml.g.cs
+C:\Users\Leoyu\Desktop\HelloWorld\HelloWorld\HelloWorld\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
+C:\Users\Leoyu\Desktop\HelloWorld\HelloWorld\HelloWorld\obj\Debug\netstandard2.0\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\Leoyu\Desktop\HelloWorld\HelloWorld\HelloWorld\obj\Debug\netstandard2.0\HelloWorld.AssemblyInfoInputs.cache
+C:\Users\Leoyu\Desktop\HelloWorld\HelloWorld\HelloWorld\obj\Debug\netstandard2.0\HelloWorld.AssemblyInfo.cs
+C:\Users\Leoyu\Desktop\HelloWorld\HelloWorld\HelloWorld\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Leoyu\Desktop\HelloWorld\HelloWorld\HelloWorld\obj\Debug\netstandard2.0\HelloWorld.dll
+C:\Users\Leoyu\Desktop\HelloWorld\HelloWorld\HelloWorld\obj\Debug\netstandard2.0\HelloWorld.pdb

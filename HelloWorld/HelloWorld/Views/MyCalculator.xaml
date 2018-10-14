@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="HelloWorld.Views.MyCalculatorPage"
+             xmlns:vm="clr-namespace:HelloWorld.ViewModels"
+             Title="{Binding Title}">
+    <ContentPage.BindingContext>
+        <vm:MyCalculatorModel />
+    </ContentPage.BindingContext>
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <!--Page Level Resources: Compatibile with Xamarin Live Player -->
+            <Color x:Key="Primary">#2196F3</Color>
+            <Color x:Key="Accent">#96d1ff</Color>
+            <Color x:Key="LightTextColor">#999999</Color>
+        </ResourceDictionary>
+    </ContentPage.Resources>
+    <Grid BackgroundColor="LightBlue" Margin="20,40,20,20" Padding="40">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="100" />
+            <ColumnDefinition Width="100" />
+            <ColumnDefinition Width="100" />
+            <ColumnDefinition Width="100" />
+        </Grid.ColumnDefinitions>
+        <Label Grid.Row="0" Grid.Column="0" Text="{Binding Result}" Grid.ColumnSpan="4" FontSize="48" HorizontalTextAlignment="End"
+               TextColor="Blue" FontAttributes="Bold"/>
+
+        <Button Grid.Row="1" Grid.Column="0" Text="CE" FontSize="Large" Command="{Binding ClearCommand}"/>
+        <Button Grid.Row="1" Grid.Column="1" Text="C" FontSize="Large" Command="{Binding ClearCommand}"/>
+        <Button x:Name="BackSign" Grid.Row="1" Grid.Column="2" FontSize="Large"/>
+        <Button x:Name="DivideSign" Grid.Row="1" Grid.Column="3"  FontSize="Large"/>
+
+        <Button Grid.Row="2" Grid.Column="0" Text="7" FontSize="Large" BackgroundColor="LightGray" FontAttributes="Bold"/>
+        <Button Grid.Row="2" Grid.Column="1" Text="8" FontSize="Large" BackgroundColor="LightGray" FontAttributes="Bold"/>
+        <Button Grid.Row="2" Grid.Column="2" Text="9" FontSize="Large" BackgroundColor="LightGray" FontAttributes="Bold"/>
+        <Button x:Name ="Multiplysign"  Grid.Row="2" Grid.Column="3" Text="x" FontSize="Large"/>
+
+        <Button Grid.Row="3" Grid.Column="0" Text="4" FontSize="Large" BackgroundColor="LightGray" FontAttributes="Bold"/>
+        <Button Grid.Row="3" Grid.Column="1" Text="5" FontSize="Large" BackgroundColor="LightGray" FontAttributes="Bold"/>
+        <Button Grid.Row="3" Grid.Column="2" Text="6" FontSize="Large" BackgroundColor="LightGray" FontAttributes="Bold"/>
+        <Button x:Name="MinusSign" Grid.Row="3" Grid.Column="3" Text="-" FontSize="Large"/>
+
+        <Button Grid.Row="4" Grid.Column="0" Text="1" FontSize="Large" BackgroundColor="LightGray" FontAttributes="Bold"/>
+        <Button Grid.Row="4" Grid.Column="1" Text="2" FontSize="Large" BackgroundColor="LightGray" FontAttributes="Bold"/>
+        <Button Grid.Row="4" Grid.Column="2" Text="3" FontSize="Large" BackgroundColor="LightGray" FontAttributes="Bold"/>
+        <Button Grid.Row="4" Grid.Column="3" Text="+" FontSize="Large"/>
+
+        <Button x:Name="PlusMinusSign" Grid.Row="5" Grid.Column="0" Text="" FontSize="Large"/>
+        <Button Grid.Row="5" Grid.Column="1" Text="0" FontSize="Large" BackgroundColor="LightGray"  FontAttributes="Bold"/>
+        <Button Grid.Row="5" Grid.Column="2" Text="." FontSize="Large"/>
+        <Button Grid.Row="5" Grid.Column="3" Text="=" FontSize="Large"/>
+
+    </Grid>
+</ContentPage>
