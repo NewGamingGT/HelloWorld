@@ -31,13 +31,13 @@
     <AppXManifest Include="C:\Users\qingsong\Documents\GitHub\HelloWorld\HelloWorld\HelloWorld.UWP\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-10-14T08:22:13.690</Modified>
+      <Modified>2018-10-14T08:52:01.364</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\qingsong\Documents\GitHub\HelloWorld\HelloWorld\HelloWorld.UWP\bin\x86\Debug\HelloWorld.UWP.exe">
       <PackagePath>entrypoint\HelloWorld.UWP.exe</PackagePath>
-      <Modified>2018-10-14T08:22:07.114</Modified>
+      <Modified>2018-10-14T08:51:58.732</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\qingsong\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.0.1\runtimes\win10-x86\nativeassets\uap10.0.15138\clrcompression.dll">
       <PackagePath>clrcompression.dll</PackagePath>
@@ -713,7 +713,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\qingsong\Documents\GitHub\HelloWorld\HelloWorld\HelloWorld\bin\Debug\netstandard2.0\HelloWorld.dll">
       <PackagePath>HelloWorld.dll</PackagePath>
-      <Modified>2018-10-14T08:21:50.061</Modified>
+      <Modified>2018-10-14T08:51:51.760</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\qingsong\Documents\GitHub\HelloWorld\HelloWorld\HelloWorld.UWP\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
@@ -868,11 +868,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\qingsong\Documents\GitHub\HelloWorld\HelloWorld\HelloWorld.UWP\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2018-10-14T08:22:06.303</Modified>
+      <Modified>2018-10-14T08:51:58.318</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\qingsong\Documents\GitHub\HelloWorld\HelloWorld\HelloWorld.UWP\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2018-10-14T08:22:06.305</Modified>
+      <Modified>2018-10-14T08:51:58.320</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.16299.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
@@ -929,7 +929,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\qingsong\Documents\GitHub\HelloWorld\HelloWorld\HelloWorld.UWP\bin\x86\Debug\Core\HelloWorld.UWP.exe">
       <PackagePath>HelloWorld.UWP.exe</PackagePath>
-      <Modified>2018-10-14T08:22:13.675</Modified>
+      <Modified>2018-10-14T08:52:01.346</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

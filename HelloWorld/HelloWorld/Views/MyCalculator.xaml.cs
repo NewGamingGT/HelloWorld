@@ -16,6 +16,7 @@ namespace HelloWorld.Views
 		    DivideSign.Text = ((char) 0xF7).ToString();
 		    Multiplysign.Text = ((char)0x2A09).ToString();
             MinusSign.Text = ((char)0x2212).ToString();
+
         }
     }
 }
